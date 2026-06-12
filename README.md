@@ -65,6 +65,3 @@ current_focus: "Decision Support System (Thesis) | Open to SWE Opportunities"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabilmln&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00ff9d&point=ffffff&hide_border=true" width="90%"/>
 
 </div>
-
-<!-- ===== FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:00ff9d&height=120&section=footer"/>
