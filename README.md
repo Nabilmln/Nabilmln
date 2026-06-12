@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== CAPSULE RENDER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:00ff9d&height=220&section=header&text=Nabil%20Maulana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:00ff9d&height=220&section=header&text=M%20Nabil%20Maulana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=Final-Year+Informatics+Student;Building+with+React+%26+Next.js;Exploring+AI+%26+RAG+Systems;Always+learning%2C+always+building" />
@@ -11,7 +11,7 @@
 <br>
 
 <!-- ===== ABOUT ME ===== -->
-## 🤖 About Me
+## About Me
 
 ```yaml
 name: "M Nabil Maulana"
@@ -35,7 +35,7 @@ current_focus: "Decision Support System (Thesis) | Open to SWE Opportunities"
 <br>
 
 <!-- ===== TECH STACK ===== -->
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ current_focus: "Decision Support System (Thesis) | Open to SWE Opportunities"
 <br>
 
 <!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
