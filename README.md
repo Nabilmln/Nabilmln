@@ -53,12 +53,13 @@ current_focus: "Decision Support System (Thesis) | Open to SWE Opportunities"
 <br>
 
 <!-- ===== GITHUB STATS ===== -->
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nabilmln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00ff9d&text_color=c9d1d9&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabilmln&layout=compact&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9&langs_count=8" width="35%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nabilmln&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nabilmln&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nabilmln&theme=tokyonight" width="32%"/>
 
 <br/>
 
