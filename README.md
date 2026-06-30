@@ -62,6 +62,6 @@ current_focus: "Decision Support System (Thesis) | Open to SWE Opportunities"
 
 <img src="https://streak-stats.demolab.com/?user=Nabilmln&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=00ff9d&currStreakLabel=00c9ff" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabilmln&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00ff9d&point=ffffff&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nabilmln&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00ff9d&point=ffffff&hide_border=true&area=true" width="90%"/>
 
 </div>
