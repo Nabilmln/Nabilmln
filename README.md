@@ -3,42 +3,30 @@
 
 ```yaml
 name: "M Nabil Maulana"
-role: "Software Engineer Candidate"
+role: "Software Engineer | AI Enthusiast"
 location: "Banda Aceh, Indonesia"
-education: "S1 Informatika - Universitas Syiah Kuala"
-status: "Final Year Student | Thesis in Progress"
-interests:
-  - Web Development
-  - AI & RAG Systems
-  - UI/UX Design
-current_focus: "Decision Support System (Thesis) | Open to SWE Opportunities"
+education: "S1 Informatics - Syiah Kuala University"
+status: "Fresh Graduate"
+interests: ["Web Development", "AI & RAG Systems", "UI/UX Design"]
+experience: "~2 years building web apps"
 ```
-
-- 🎓 Final-year Informatics student, expected graduation **2026**
-- 💼 Former AI Engineer Intern, built RAG-based systems with **LangChain** & **Gemini**
-- 🛠️ ~2 years experience building web apps with **React** & **Next.js**
-- 🌱 Currently working on a **Decision Support System** using Fuzzy Logic
-- 📫 Reach me: **[nabilmaulana212@gmail.com/www.linkedin.com/in/mnabilmaulana]**
-
-<br>
 
 <!-- ===== TECH STACK ===== -->
 ## Tech Stack
 
-<div align="center">
+<div align="start">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,figma&theme=dark" />
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&theme=dark" />
+**Familiar**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,supabase,figma,git,github,vercel,vscode,postman&theme=dark" />
+<br/>
+<br/>
+**Currently Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=go,docker,postgresql,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=drizzle&theme=dark" />
 
 </div>
-
-<br>
 
 <!-- ===== GITHUB STATS ===== -->
 ## GitHub Stats
