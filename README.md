@@ -1,5 +1,5 @@
 <!-- ===== ABOUT ME ===== -->
-## About Me
+## Hi! I'm Nabil
 
 Fresh graduate in Informatics from Universitas Syiah Kuala. I work across the JavaScript/TypeScript ecosystem — web apps, backend services, API integrations, and both SQL and NoSQL databases. Also spent time exploring AI application development through RAG pipelines and AI APIs.
 
